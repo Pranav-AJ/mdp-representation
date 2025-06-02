@@ -2,7 +2,7 @@
 # MDP REPRESENTATION
 
 ## AIM:
-The MDP REPRESENTATION the robot navigate a warehouse to  deliver address.
+The MDP REPRESENTATION the robot navigate a warehouse to  delivery address.
 
 ## PROBLEM STATEMENT:
 The MDP representation of a robot navigating a warehouse to reach the pick-up point and deliver the package to the delivery address.
